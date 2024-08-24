@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/muckay8360.github.io/Final-Project/static/css/main.9b2ee447.css",
+    "main.js": "/muckay8360.github.io/Final-Project/static/js/main.434dee17.js",
+    "static/js/453.d1623d39.chunk.js": "/muckay8360.github.io/Final-Project/static/js/453.d1623d39.chunk.js",
+    "static/media/watcher.jpg": "/muckay8360.github.io/Final-Project/static/media/watcher.a645f4885604e927aa77.jpg",
+    "static/media/promises.jpg": "/muckay8360.github.io/Final-Project/static/media/promises.34cf61ee67f68d77e7f0.jpg",
+    "static/media/warrior.jpg": "/muckay8360.github.io/Final-Project/static/media/warrior.bd37d1e8462973b550aa.jpg",
+    "static/media/pirates.jpg": "/muckay8360.github.io/Final-Project/static/media/pirates.52a19a273fe8c2d19d77.jpg",
+    "static/media/dragon.jpg": "/muckay8360.github.io/Final-Project/static/media/dragon.5815d409445e78885fe4.jpg",
+    "static/media/swift.jpg": "/muckay8360.github.io/Final-Project/static/media/swift.3fd7420af1d942843904.jpg",
+    "static/media/ghosts.jpg": "/muckay8360.github.io/Final-Project/static/media/ghosts.1b32bf01b89f29976e1f.jpg",
+    "static/media/Empress.jpg": "/muckay8360.github.io/Final-Project/static/media/Empress.ebb181e1b171fb5a01f7.jpg",
+    "static/media/freedom.jpg": "/muckay8360.github.io/Final-Project/static/media/freedom.5073f32b5d9028b4c6a9.jpg",
+    "static/media/rise.jpg": "/muckay8360.github.io/Final-Project/static/media/rise.e38650f7eb2e24824337.jpg",
+    "static/media/background.jpg": "/muckay8360.github.io/Final-Project/static/media/background.085c4ecab8ec9fd1a66a.jpg",
+    "index.html": "/muckay8360.github.io/Final-Project/index.html",
+    "main.9b2ee447.css.map": "/muckay8360.github.io/Final-Project/static/css/main.9b2ee447.css.map",
+    "main.434dee17.js.map": "/muckay8360.github.io/Final-Project/static/js/main.434dee17.js.map",
+    "453.d1623d39.chunk.js.map": "/muckay8360.github.io/Final-Project/static/js/453.d1623d39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b2ee447.css",
+    "static/js/main.434dee17.js"
+  ]
+}
